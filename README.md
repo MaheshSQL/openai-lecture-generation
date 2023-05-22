@@ -31,3 +31,14 @@ This is an example of how Azure OpenAI and Azure Cognitive Services text-to-spee
     - Replace placeholders with correct values.    
 - Navigate to _/app_ directory and run following command from VS Code terminal. This will open the App UI in a browser window.
     - ```streamlit run app.py```
+
+## Demo UI navigation
+- Curriculum Management --> Bachelor of Mechanical Engineering --> 3024 Engineering Thermodynamics
+- Curriculum details --> Load
+- Reference books --> Load
+- Chapters --> Chapter-1
+- Generate lecture script 
+    - Toggle to Lecture Script tab once generation is completed
+- Generate recording 
+    - To hear recording sample
+    - Switch between speaker voices
