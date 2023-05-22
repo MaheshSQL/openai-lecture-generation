@@ -1,0 +1,8 @@
+openai
+tiktoken
+pypdf
+python-dotenv
+pandas
+unstructured
+streamlit
+azure-cognitiveservices-speech
