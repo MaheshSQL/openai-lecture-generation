@@ -92,7 +92,7 @@ with st.container():
 
     top_col1,top_col2 = st.columns([80,20])
     top_col1.write(f'<div style="font-size:24px;"><b>NextGen</b> Institute of Engineering</div>',unsafe_allow_html=True) 
-    top_col2.write(f'<div style="font-size:16px;" align="right"><a href="https://github.com/MaheshSQL/openai-cognitive-semantic-search">Github Repo (TBA)</a></div>',unsafe_allow_html=True)     
+    top_col2.write(f'<div style="font-size:16px;" align="right"><a href="https://github.com/MaheshSQL/openai-lecture-generation">Github Repo</a></div>',unsafe_allow_html=True)
     st.image(image='../images/uni_1.png', use_column_width = 'always')
 
     top_bar_content = 'Welcome <b>Professor James T.</b>'
