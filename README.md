@@ -5,7 +5,8 @@
 ![](images/UI_Output.png)
 
 ## About
-Demonstration of use of OpenAI + Text to speech to genarate lecture recording on top of textbook data.
+
+This is an example of how Azure OpenAI and Azure Cognitive Services text-to-speech technology can be utilized to create recorded lectures based on information from textbooks.
 
 ## How to deploy
 
